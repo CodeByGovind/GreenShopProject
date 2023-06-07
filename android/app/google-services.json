@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552545449474",
+    "project_id": "greenshopproject-1e399",
+    "storage_bucket": "greenshopproject-1e399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552545449474:android:663cac91842cc154c5191b",
+        "android_client_info": {
+          "package_name": "com.greenshopproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552545449474-3mbho2s0h5ahjjgko3u8fel8rfqsbjhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZJwHI3gjewO8-NCZxYuoZ2nuVdPvfM6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552545449474-3mbho2s0h5ahjjgko3u8fel8rfqsbjhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
